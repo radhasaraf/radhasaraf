@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a masters student in the Robotics Engineering program at Worcester Polytechnic Institute (WPI).
+- :blue_book: I am a masters student in the Robotics Engineering program at Worcester Polytechnic Institute (WPI).
 
-Previously, I worked at Skylark Drones, where I was developing pipelines for solving computer vision problems associated with drone surveys. I was also the primary backend developer for Drone Mission Ops, the proprietary software for managing commercial drone operations.
+- :woman_technologist: Previously, I worked at Skylark Drones, where I was developing pipelines for solving computer vision problems associated with drone surveys. I was also the primary backend developer for Drone Mission Ops, the proprietary software for managing commercial drone operations.
 
-I am interested in the areas of motion planning & visual perception.
+- 📷 I am interested in the areas of motion planning & visual perception.
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=radhasaraf&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
