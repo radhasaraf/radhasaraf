@@ -24,6 +24,6 @@ I obtained my bachelors in Electrical and Electronics Engineering.
 
 I am interested in the areas of motion planning & visual perception.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=radhasaraf&theme=toykonight)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=radhasaraf&theme=toykonight)](https://git.io/streak-stats) -->
 
-[![Ramana's github stats](https://github-readme-stats.vercel.app/api?username=radhasaraf&show_icons=true&theme=toykonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=radhasaraf&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
