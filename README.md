@@ -20,10 +20,8 @@ I am a masters student in the Robotics Engineering program at Worcester Polytech
 
 Previously, I worked at Skylark Drones, where I was developing pipelines for solving computer vision problems associated with drone surveys. I was also the primary backend developer for Drone Mission Ops, the proprietary software for managing commercial drone operations.
 
-I obtained my bachelors in Electrical and Electronics Engineering.
-
 I am interested in the areas of motion planning & visual perception.
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=radhasaraf&theme=toykonight)](https://git.io/streak-stats) -->
-
 [![My github stats](https://github-readme-stats.vercel.app/api?username=radhasaraf&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=radhasaraf&theme=tokyonight)](https://git.io/streak-stats)
