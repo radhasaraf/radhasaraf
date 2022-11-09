@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- :raising_hand_woman: I am Radha
-- 😄 Pronouns: She/Her
-- 📫 How to reach me: rrsaraf@wpi.edu
+- :raising_hand_woman: I am Radha. (She/Her)
 <!--
 **radhasaraf/radhasaraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,11 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :blue_book: I am a masters student in the Robotics Engineering program at Worcester Polytechnic Institute (WPI).
+- :blue_book: I am a master's student in Robotics Engineering at Worcester Polytechnic Institute (WPI).
 
 - :woman_technologist: Previously, I worked at Skylark Drones, where I was developing pipelines for solving computer vision problems associated with drone surveys. I was also the primary backend developer for Drone Mission Ops, the proprietary software for managing commercial drone operations.
 
 - 📷 I am interested in the areas of motion planning & visual perception.
+
+- 📫 You can reach me at: rrsaraf@wpi.edu
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=radhasaraf&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
