@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :blue_book: I completed master's in Robotics Engineering from Worcester Polytechnic Institute (WPI) in December 2023.
-- :woman_office_worker: Spent my 2nd year of master's working at Skydio and Humane as a computer vision intern.
+- :books: I completed master's in Robotics Engineering from Worcester Polytechnic Institute (WPI) in December 2023.
+- :woman_technologist: Spent my 2nd year of master's working at Skydio and Humane as a computer vision intern.
 - :woman_technologist: Back home, I worked at Skylark Drones, solving computer vision problems associated with drone surveys. I was also the primary backend developer for Drone Mission Ops, the proprietary software for managing commercial drone operations.
 
 - 📷 I am interested in the areas of motion planning & visual perception.
