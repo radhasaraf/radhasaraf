@@ -20,7 +20,7 @@ Earlier, I worked at Skylark Drones, solving computer vision problems associated
 
 I am interested in the areas of motion planning & visual perception.
 
-You can reach me at: rrsaraf@wpi.edu
+You can reach me at: radhasaraf2@gmail.com
 
 <!--
 [![My github stats](https://github-readme-stats.vercel.app/api?username=radhasaraf&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
