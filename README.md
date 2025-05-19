@@ -19,7 +19,7 @@ Spent my 2nd year of master's working at Skydio and Humane as a computer vision 
 
 Earlier, I worked at Skylark Drones, solving computer vision problems associated with drone surveys. I was also the primary backend developer for Drone Mission Ops, the proprietary software for managing commercial drone operations.
 
-I am interested in the areas of motion planning & visual perception.
+I am interested in perception, AI and system software roles.
 
 You can reach me at: radhasaraf2@gmail.com
 
