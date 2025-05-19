@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
+I currently work on SLAM at Unison, a VR headset startup based in Mountain View. 
 
 I completed master's in Robotics Engineering from Worcester Polytechnic Institute (WPI) in December 2023.
 
